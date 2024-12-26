@@ -1,0 +1,23 @@
+# ninja log v6
+4	1229	7501097089851842	CMakeFiles/Binary_heap.dir/binary_heap.cpp.obj	e3f5a5e66e1f5c03
+1233	1407	7501097102141199	Binary_heap.exe	923cd96286f4100b
+8	1259	7501149890573073	CMakeFiles/Binary_heap.dir/binary_heap.cpp.obj	e3f5a5e66e1f5c03
+1259	1437	7501149903090111	Binary_heap.exe	923cd96286f4100b
+8	1233	7501150555428708	CMakeFiles/Binary_heap.dir/binary_heap.cpp.obj	e3f5a5e66e1f5c03
+1234	1395	7501150567683228	Binary_heap.exe	923cd96286f4100b
+9	1230	7501150724095362	CMakeFiles/Binary_heap.dir/binary_heap.cpp.obj	e3f5a5e66e1f5c03
+1231	1392	7501150736314654	Binary_heap.exe	923cd96286f4100b
+8	1205	7501151100811364	CMakeFiles/Binary_heap.dir/binary_heap.cpp.obj	e3f5a5e66e1f5c03
+1206	1384	7501151112775997	Binary_heap.exe	923cd96286f4100b
+9	1282	7501151260038121	CMakeFiles/Binary_heap.dir/binary_heap.cpp.obj	e3f5a5e66e1f5c03
+1282	1485	7501151272763451	Binary_heap.exe	923cd96286f4100b
+8	1221	7501152194864551	CMakeFiles/Binary_heap.dir/binary_heap.cpp.obj	e3f5a5e66e1f5c03
+1222	1407	7501152207001930	Binary_heap.exe	923cd96286f4100b
+9	1199	7501152364483617	CMakeFiles/Binary_heap.dir/binary_heap.cpp.obj	e3f5a5e66e1f5c03
+1199	1361	7501152376383993	Binary_heap.exe	923cd96286f4100b
+8	1225	7501153022580423	CMakeFiles/Binary_heap.dir/binary_heap.cpp.obj	e3f5a5e66e1f5c03
+1225	1391	7501153034759348	Binary_heap.exe	923cd96286f4100b
+9	1287	7501166839308319	CMakeFiles/Binary_heap.dir/binary_heap.cpp.obj	e3f5a5e66e1f5c03
+1288	1479	7501166852106615	Binary_heap.exe	923cd96286f4100b
+9	1287	7501179342932603	CMakeFiles/Binary_heap.dir/binary_heap.cpp.obj	e3f5a5e66e1f5c03
+1288	1478	7501179355723056	Binary_heap.exe	923cd96286f4100b
